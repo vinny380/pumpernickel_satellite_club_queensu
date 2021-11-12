@@ -12,6 +12,7 @@
 File myFile;
 
 void setup() {
+
   // Open serial communications and wait for port to open:
   Serial.begin(9600);
   while (!Serial) {
@@ -59,7 +60,15 @@ void setup() {
 }
 
 void loop() {
-  // nothing happens after setup
+      //Temperature----------------------------
+    
+    // You must first get a temperature measurement to perform a pressure reading.
+    status = pressure.startTemperature();
+    delay(status);
+    
+    // Retrieve the completed temperature measurement, measurement is stored in the variable T.
+    status = pressure.getTemperature(T);
+  
 }
 //-------------------------------------------------------------------------------------
 /*
