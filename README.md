@@ -10,13 +10,19 @@
 </p>
 
 
-<h2>Hardware used:</h2>
+<h2>Hardware Used:</h2>
 <ul>
   <li>Arduino Nano Every</li>
-  <li>GY-68 BMP180 Barometric Pressure Senspr</li>
+  <li>GY-68 BMP180 Barometric Pressure Sensor</li>
   <li>Jump Wires</li>
   <li>Adafruit MicroSD SPI</li>
-  <li>TMP36 Temperature Sensorli>
-  <li>Red thing we need the name</li>
+  <li>TMP36 Temperature Sensor</li>
+  <li>SparkFun Logic Level Converter - Bi-Directional</li>
 </ul>
 
+<h3>Group Members:</h3>
+<ul>
+  <li>Nicholas Chu</li>
+  <li>Tomas Harmer</li>
+  <li>Vinícius Purgato</li>
+</ul>
