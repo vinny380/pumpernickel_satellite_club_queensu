@@ -18,6 +18,7 @@
   <li>Adafruit MicroSD SPI</li>
   <li>TMP36 Temperature Sensor</li>
   <li>SparkFun Logic Level Converter - Bi-Directional</li>
+  <li>Lithium Ion Polymer Battery - 3.7v 1200mAh (603450)</li>
 </ul>
 
 <h3>Group Members:</h3>
